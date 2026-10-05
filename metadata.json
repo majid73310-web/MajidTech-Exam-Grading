@@ -1,0 +1,10 @@
+{
+  "name": "MajidTech Exam Grading",
+  "description": "Automated exam paper scanner and grading architecture for Flutter & Android with Gemini Vision AI, SQLite storage, and camera alignment.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
